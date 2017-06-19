@@ -1,8 +1,3 @@
---- step ---
----
-title: Understanding tuples in Python
----
-
 In the Python programming language, there are several types of data structure that you can use. Two of the most common types of data structure are lists and tuples.
 
 *[data structure]: a method of storing data to be accessed by your program
@@ -40,4 +35,4 @@ You can also loop over the items in a tuple
 for color in smarties:
     print(color)
 ```
---- /step ---
+
