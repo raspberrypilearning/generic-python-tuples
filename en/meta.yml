@@ -1,10 +1,13 @@
 title: Using Python Tuples
 hero_image: images/banner.png
-description: generic-python-tuples description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: how to use tuples in Python
+original_url:
 theme: cc-prototype
-duration: 1 
-ingredient: true
+duration: 1
 listed: false
+ingredient: true
+copyedit: false
+interests:
+technologies: "python"
 steps:
   - title: Tuples
