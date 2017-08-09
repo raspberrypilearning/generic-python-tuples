@@ -1,6 +1,6 @@
-title: Using Python Tuples
+title: Using Python tuples
 hero_image: images/banner.png
-description: how to use tuples in Python
+description: How to use tuples in Python
 original_url:
 theme: cc-prototype
 duration: 1
@@ -10,4 +10,4 @@ copyedit: false
 interests:
 technologies: "python"
 steps:
-  - title: Tuples
+  - title: Python tuples
