@@ -24,7 +24,7 @@ You can find out which item is at which position in a tuple by looking at the `i
 
 ```python
 smarties[0]
->>> eed
+>>> red
 smarties[5]
 >>> pink
 ```
